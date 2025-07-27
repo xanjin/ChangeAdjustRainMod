@@ -1,0 +1,14 @@
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/SoundDef[defName="Ambient_TorrentialRain"]/subSounds/li/grains/li/clipPath</xpath>
+    <value>
+      <clipPath>Rain</clipPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/SoundDef[defName="Ambient_Rain"]/subSounds/li/grains/li/clipPath</xpath>
+    <value>
+      <clipPath>Rain</clipPath>
+    </value>
+  </Operation>
+</Patch>

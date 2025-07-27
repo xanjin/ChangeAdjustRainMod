@@ -1,0 +1,5 @@
+H:\Steam\steamapps\common\RimWorld\Mods\ChangeAdjustRainSound\Assemblies\ChangeAdjustRainMod.dll
+H:\Steam\steamapps\common\RimWorld\Mods\ChangeAdjustRainSound\Source\obj\Release\ChangeAdjustRainMod.csproj.AssemblyReference.cache
+H:\Steam\steamapps\common\RimWorld\Mods\ChangeAdjustRainSound\Source\obj\Release\ChangeAdjustRainMod.GeneratedMSBuildEditorConfig.editorconfig
+H:\Steam\steamapps\common\RimWorld\Mods\ChangeAdjustRainSound\Source\obj\Release\ChangeAdjustRainMod.csproj.CoreCompileInputs.cache
+H:\Steam\steamapps\common\RimWorld\Mods\ChangeAdjustRainSound\Source\obj\Release\ChangeAdjustRainMod.dll

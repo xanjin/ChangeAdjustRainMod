@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+  <name>Change Rain Sound and Volume in Patch 1.6</name>
+  <author>Xanjin</author>
+  <packageId>Xanjin.ChangeAdjustRainSound</packageId>
+  <description>Allows adjusting rain sound volume live via mod settings (weather will change to clear and back to rain for a second to allow applying changes) and changes the rain sound to dmca free version - the rain sound can be changed manually to another sound replacing the Rain.ogg file under Sounds/ to an different .ogg sound file - name should be staying Rain.ogg </description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+</ModMetaData>
